@@ -17,6 +17,9 @@ end
     director_index += 1
 end
   totals
+
+end
+
   # Remember, it's always OK to pretty print what you get *in* to make sure
   # that you know what you're starting with!
   #
@@ -33,5 +36,3 @@ end
   #
   #
   # Be sure to return the result at the end!
-  nil
-end
